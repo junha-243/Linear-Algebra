@@ -17,7 +17,7 @@ int main(void)
         {1.0, -2.0}
     };
 
-    double b[3] = {3.0, 1.0, 1.0};
+    double b[3] = {3.0, 1.0, -1.0};
 
     double determinant;
     double x1;
